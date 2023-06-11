@@ -1,7 +1,7 @@
 ## About me
-My name is André and im in my 20's and i live in Sweden.
+My name is André, im in my 20's and i live in Sweden.
 
-I mostly write C and C++ but i do use other languages now and then.
+I have been writing loads of projects in C / C++ ever since i was a young teenager. I love 
 
 [![kaz0r's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kaz0r&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
